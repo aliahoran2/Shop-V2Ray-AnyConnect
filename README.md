@@ -520,22 +520,10 @@ MIT License
 
 ---
 
-## نویسنده
+## نویسنده AliAhoran
 
 توسعه داده شده با PHP خالص و JSON.
 
-اگر از این پروژه استفاده کردید، خوشحال می‌شوم به آن Star بدهید.
-
-
-پیشنهاد می‌کنم کنار این `README.md` یک فایل `LICENSE` هم بسازی و این متن کوتاه رو داخلش بذاری:
-
-```txt
-MIT License
-
-Copyright (c) 2026
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files, to deal in the Software
 without restriction, including without limitation the rights to use, copy,
 modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
 
